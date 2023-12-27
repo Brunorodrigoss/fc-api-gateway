@@ -1,5 +1,5 @@
-FROM kong:2.8.1-alpine
-#FROM kong:3.3.1-alpine
+#FROM kong:2.8.1-alpine
+FROM kong:3.5.0
 
 USER root
 
